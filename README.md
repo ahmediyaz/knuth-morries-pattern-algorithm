@@ -1,0 +1,1 @@
+# knuth-morries-pattern-algorithm
